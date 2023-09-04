@@ -5,7 +5,7 @@
 
 - 🔭 Specialising</i> in <b> AI&DS
 -  &#9997; Learner | Tech-enthusiast</b>
--  📫Reach me:<i>**aldrinps597@gmail.com@gmail.com**</i>
+-  📫Reach me:<i>**aldrinps597@gmail.com**</i>
 
 ## <p align="center">Programming Languages:
 
